@@ -8,7 +8,7 @@ slack_name: codebuddies
 activated: true
 
 # What should the bot's name be when it posts?
-bot_name: "archiver"
+bot_name: "cb_jarvis"
 
 # What should the bot's avatar be when it posts?
 bot_avatar_url: "https://s3-us-west-1.amazonaws.com/eng-management-docs/bread.png"
@@ -44,7 +44,7 @@ ignore_channel_patterns:
 # Users to ignore when considering if a channel is stale
 ignore_users:
   - USLACKBOT
-  - archiver
+  - cb_jarvis
 
 # Which message subtypes count as activity?
 # "None" means the message was typed by a human and is included by default.
