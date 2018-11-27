@@ -23,7 +23,7 @@ archive_threshold: 60
 general_message_channel: "general"
 
 # Where should we announce new channels?
-announce_channel: "announcements"
+announce_channel: "general"
 
 # Where do we send control messages?
 control_channel: "codebuddies-ops"
